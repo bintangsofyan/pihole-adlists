@@ -15,4 +15,4 @@ rancher:
 
 ssh_authorized_keys:
   - ssh-rsa 0XY8o3kqf4aBtyE7LqPKWGNQdFazIvxe1zo8H4gTYwM administrator@WIN-H21LKB04LSA
-  - 
+  - ssh-rsa zSfkeMwLY96zKvaWRxlUGoNFTKV+p7PZSFwzo1c21XU administrator@WIN-BS
