@@ -1,0 +1,14 @@
+hostname: docker
+
+rancher: 
+  network:
+    interfaces:
+      eth0:
+	address: 192.168.1.252/24
+	gateway: 192.168.1.1
+	mtu: 1500
+	dhcp: false
+    dns:
+      nameservers:
+      - 1.1.1.1
+      - 1.0.0.1
