@@ -12,3 +12,7 @@ rancher:
       nameservers:
       - 1.1.1.1
       - 1.0.0.1
+
+ssh_authorized_keys:
+  - ssh-rsa 0XY8o3kqf4aBtyE7LqPKWGNQdFazIvxe1zo8H4gTYwM administrator@WIN-H21LKB04LSA
+  - 
